@@ -91,14 +91,5 @@ Automates Bing search based on predefined queries and actions.
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ivin-titus&theme=radical)  
 
-<br>
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ivin-titus&theme=github)  
-
-<br>
-
-![GitHub Contributions Calendar](https://github-readme-streak-stats.herokuapp.com/?user=ivin-titus&theme=radical)
-
 #
 🌟 _"Code is like humor. When you have to explain it, it’s bad."_  
