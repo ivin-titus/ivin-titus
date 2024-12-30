@@ -6,12 +6,13 @@
 🌱 Exploring the world of **mobile app development** and growing every day!  
 📚 I’m passionate about **Programming, Reading, Gaming, Video Editing**, and of course, **Watching Anime** 🎥✨  
 
+#
 
 ### 🌟 About Me  
 
 Hey there! 👋 I'm Ivin, a tech enthusiast with a knack for design and development. I thrive on creativity, problem-solving, and creating seamless user experiences. Whether it's crafting responsive websites, experimenting with UI/UX designs, or diving into the exciting world of mobile apps, I'm always up for a challenge!  
 
----
+#
 
 ### 🚀 Tech Stack & Tools  
 
@@ -27,7 +28,7 @@ Hey there! 👋 I'm Ivin, a tech enthusiast with a knack for design and developm
 #### Tools & Design  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)  ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)  
 
----
+#
 
 ### 💻 What I’m Working On  
 
@@ -35,7 +36,7 @@ Hey there! 👋 I'm Ivin, a tech enthusiast with a knack for design and developm
 - 📱 Exploring **mobile app development** with Flutter.  
 - 🎨 Designing intuitive and beautiful UI/UX experiences.  
 
----
+#
 
 ### 📂 Featured Projects  
 
@@ -54,13 +55,13 @@ A tool to generate strong and secure passwords.
 #### 5. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch)  
 Automates Bing search based on predefined queries and actions.  
 
----
+#
 
 ### 📬 Let’s Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivin-titus) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivintitus@hotmail.com)
 
----
+#
 
 ### ⚡ Fun Facts  
 
@@ -68,12 +69,11 @@ Automates Bing search based on predefined queries and actions.
 - 🎥 Anime enthusiast—my all-time favorite is **Naruto**
 - 🌱 I believe in continuous learning and exploring!  
 
----
+#
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&theme=radical)  
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivin-titus&layout=compact&theme=radical)  
 
----
-
+#
 🌟 _"Code is like humor. When you have to explain it, it’s bad."_  
