@@ -6,7 +6,6 @@
 🌱 Exploring the world of **mobile app development** and growing every day!  
 📚 I’m passionate about **Programming, Reading, Gaming, Video Editing**, and of course, **Watching Anime** 🎥✨  
 
----
 
 ### 🌟 About Me  
 
