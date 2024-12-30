@@ -78,12 +78,38 @@ Automates Bing search based on predefined queries and actions.
 #
 
 <br>
+### 🏆 GitHub Stats & Activity  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&theme=radical)  
+![Ivin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&count_private=true&theme=radical)  
 
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivin-titus&layout=compact&theme=radical)  
+
+<br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivin-titus&theme=radical)  
+
+<br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ivin-titus&theme=radical)  
+
+<br>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ivin-titus&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
+
+<br>
+
+![Ivin's Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ivin-titus&theme=github)  
+
+<br>
+
+![Ivin's GitHub Contributions](https://github-contrib-widget.herokuapp.com/?username=ivin-titus)  
+
+<br>
+
+![GitHub Language Chart](https://github-readme-language-chart.vercel.app/api?username=ivin-titus)
+
 
 #
 🌟 _"Code is like humor. When you have to explain it, it’s bad."_  
