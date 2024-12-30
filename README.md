@@ -57,9 +57,15 @@ Automates Bing search based on predefined queries and actions.
 
 #
 
-### 📬 Let’s Connect!  
+### 📬 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivin-titus) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivintitus@hotmail.com)
+- [Discord](https://discordapp.com/users/887217817131286549)  
+- [LinkedIn](https://in.linkedin.com/in/ivin-titus-49b403297)  
+- [Email](mailto:ivintitus@hotmail.com)  
+- [Telegram](http://t.me/Ivin_Techz)  
+- [X (formerly Twitter)](https://twitter.com/ivin_titus_)  
+- [YouTube](https://www.youtube.com/@Ivin_Techz)
+
 
 #
 
