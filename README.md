@@ -66,7 +66,7 @@ Automates Bing search based on predefined queries and actions.
 ### ⚡ Fun Facts  
 
 - 🎮 I'm an avid gamer who loves RPGs and strategy games.  
-- 🎥 Anime enthusiast—my all-time favorite is **[Your Favorite Anime Here]**.  
+- 🎥 Anime enthusiast—my all-time favorite is **Naruto**
 - 🌱 I believe in continuous learning and exploring!  
 
 ---
