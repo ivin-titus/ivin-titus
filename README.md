@@ -93,7 +93,7 @@ Automates Bing search based on predefined queries and actions.
 
 <br>
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ivin-titus&theme=github)
+![GitHub Contributions](https://github-contrib-widget.herokuapp.com/?username=ivin-titus)
 
 
 #
