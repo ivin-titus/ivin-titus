@@ -81,16 +81,15 @@ Automates Bing search based on predefined queries and actions.
 
 <br>
 
-![Ivin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&count_private=true&theme=radical)  
-
-<br>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivin-titus&layout=compact&theme=radical)  
 
 <br>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ivin-titus&theme=radical)  
+![Ivin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&count_private=true&theme=radical)  
 
+<br>
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ivin-titus&theme=radical)  
 
 #
 🌟 _"Code is like humor. When you have to explain it, it’s bad."_  
