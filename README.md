@@ -76,7 +76,7 @@ Automates Bing search based on predefined queries and actions.
 - 🌱 I believe in continuous learning and exploring!  
 
 #
-
+<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&theme=radical)  
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivin-titus&layout=compact&theme=radical)  
