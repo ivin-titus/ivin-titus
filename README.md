@@ -34,8 +34,6 @@ Hey there! 👋 I'm Ivin, a tech enthusiast with a knack for design and developm
 
 ### 📂 Featured Projects  
 
-\  
-
 ---
 
 ### 📬 Let’s Connect!  
