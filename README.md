@@ -72,12 +72,12 @@ Automates Bing search based on predefined queries and actions.
 ### **⚡ Fun Facts**  
 
 - 🎮 I'm an avid gamer who loves RPGs and strategy games.  
-- 🎥 Anime enthusiast - my all-time favorite is **Naruto**
+- 🎥 Anime enthusiast - my all-time favorite is **Bleach**
 - 🌱 I believe in continuous learning and exploring!  
 
 #
 
-### 🏆 GitHub Stats & Activity  
+### 🏆 GitHub Stats  
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivin-titus&layout=compact&theme=radical) -->
 
 <br>
@@ -86,7 +86,7 @@ Automates Bing search based on predefined queries and actions.
 
 <br>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ivin-titus&theme=radical)  
+<!-- ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ivin-titus&theme=radical)  -->
 
 #
 🌟 _"Code is like humor. When you have to explain it, it’s bad."_  
