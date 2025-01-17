@@ -84,8 +84,6 @@ Automates Bing search based on predefined queries and actions.
 
 ![Ivin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&count_private=true&theme=radical)  
 
-<br>
-
 <!-- ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ivin-titus&theme=radical)  -->
 
 #
