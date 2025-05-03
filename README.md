@@ -44,13 +44,13 @@ Hey there! 👋 I'm Ivin, a tech enthusiast with a knack for design and developm
 A smart app for repurposing old smartphones, featuring time, date, weather updates, and IoT control.  
 
 #### 2. [Text-Encryption](https://github.com/ivin-titus/Text-Encryption)  
-A simple Python app to encrypt and decrypt text for secure messaging.  
+A simple Python + flutter app that demonstrates a simple encryption algorithm.  
 
 #### 3. [Link-Shortener-and-QR-Code-Generator](https://github.com/ivin-titus/Link-Shortener-and-QR-Code-Generator)  
 A web tool to shorten URLs and generate QR codes.  
 
 #### 4. [Password-Generator](https://github.com/ivin-titus/password-generator)  
-A tool to generate strong and secure passwords.  
+A tool to generate strong and secure passwords.
 
 #### 5. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch)  
 Automates Bing search based on predefined queries and actions.  
