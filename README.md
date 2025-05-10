@@ -39,20 +39,22 @@ Hey there! 👋 I'm Ivin, a tech enthusiast with a knack for design and developm
 #
 
 ### **📂 Featured Projects**  
+#### 1. [Project Yuki](https://yukina-hirawa.vercel.app/)   
+An AI-powered virtual best friend that chats, tracks emotions, and evolves with you.
 
-#### 1. [ReSmart](https://github.com/ivin-titus/ReSmart)  
+#### 2. [ReSmart](https://github.com/ivin-titus/ReSmart)  
 A smart app for repurposing old smartphones, featuring time, date, weather updates, and IoT control.  
 
-#### 2. [Text-Encryption](https://github.com/ivin-titus/Text-Encryption)  
+#### 3. [Text-Encryption](https://github.com/ivin-titus/Text-Encryption)  
 A simple Python + flutter app that demonstrates a simple encryption algorithm.  
 
-#### 3. [Link-Shortener-and-QR-Code-Generator](https://github.com/ivin-titus/Link-Shortener-and-QR-Code-Generator)  
+#### 4. [Link-Shortener-and-QR-Code-Generator](https://github.com/ivin-titus/Link-Shortener-and-QR-Code-Generator)  
 A web tool to shorten URLs and generate QR codes.  
 
-#### 4. [Password-Generator](https://github.com/ivin-titus/password-generator)  
+#### 5. [Password-Generator](https://github.com/ivin-titus/password-generator)  
 A tool to generate strong and secure passwords.
 
-#### 5. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch)  
+#### 6. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch)  
 Automates Bing search based on predefined queries and actions.  
 
 #
