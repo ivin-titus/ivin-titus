@@ -43,7 +43,7 @@ Hey there! 👋 I'm Ivin, a tech enthusiast with a knack for design and developm
 An AI-powered virtual best friend that chats, tracks emotions, and evolves with you.
 
 #### 2. [ReSmart](https://github.com/ivin-titus/ReSmart)  
-A smart app for repurposing old smartphones, featuring time, date, weather updates, and IoT control.  
+A smart app for repurposing old smartphones - IoT controls, make it as a NAS Server and more.  
 
 #### 3. [Text-Encryption](https://github.com/ivin-titus/Text-Encryption)  
 A simple Python + flutter app that demonstrates a simple encryption algorithm.  
