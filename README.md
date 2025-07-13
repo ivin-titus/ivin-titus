@@ -39,23 +39,29 @@ Hey there! 👋 I'm Ivin, a tech enthusiast with a knack for design and developm
 #
 
 ### **📂 Featured Projects**  
-#### 1. [Project Yuki](https://yuki.ivin.site/)   
-An AI-powered virtual best friend that chats, tracks emotions, and evolves with you.
+#### 1. [Project Yuki](https://yuki.ivin.site/) 
+An AI-powered virtual best friend that chats, tracks emotions, and evolves with you. **(Live on production)**
 
-#### 2. [ReSmart](https://github.com/ivin-titus/ReSmart)  
-A smart app for repurposing old smartphones - IoT controls, make it as a NAS Server and more.  
+#### 2. [Hori-Z](https://horiz.ivin.site/)
+A decentralized, privacy-first social platform with anonymous and public posting modes. **(Still in early development stage)**
 
-#### 3. [Text-Encryption](https://github.com/ivin-titus/Text-Encryption)  
+#### 3. [RoleLinker](https://rolelinker.ivin.site/)
+A smart job-matching platform connecting recruiters and seekers by skills and roles. **(Still in early development stage)**
+
+#### 4. [ReSmart](https://github.com/ivin-titus/ReSmart)  
+A smart app for repurposing old smartphones - IoT controls, make it as a NAS Server and more.
+
+#### 5. [Text-Encryption](https://github.com/ivin-titus/Text-Encryption)
 A simple Python + flutter app that demonstrates a simple encryption algorithm.  
 
-#### 4. [Link-Shortener-and-QR-Code-Generator](https://github.com/ivin-titus/Link-Shortener-and-QR-Code-Generator)  
-A web tool to shorten URLs and generate QR codes.  
+#### 6. [Link-Shortener-and-QR-Code-Generator](https://github.com/ivin-titus/Link-Shortener-and-QR-Code-Generator)  
+A web tool to shorten URLs and generate QR codes.
 
-#### 5. [Password-Generator](https://github.com/ivin-titus/password-generator)  
+#### 7. [Password-Generator](https://github.com/ivin-titus/password-generator) 
 A tool to generate strong and secure passwords.
 
-#### 6. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch)  
-Automates Bing search based on predefined queries and actions.  
+#### 8. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch) 
+Automates Bing search based on predefined queries and actions.  **(Deprecated)**
 
 #
 
