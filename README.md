@@ -96,3 +96,11 @@ Automates Bing search based on predefined queries and actions.  **(Deprecated)**
 
 #
 🌟 _"Code is like humor. When you have to explain it, it’s bad."_  
+
+
+<!-- OLD BIO ---
+
+
+Tech Enthusiast who is learning new stuffs everyday. Specializing in Mobile + Web App Development and UI/UX Designing. Full of great ideas but short on cash 🙂
+
+-->
