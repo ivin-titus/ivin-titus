@@ -69,7 +69,7 @@ Automates Bing search based on predefined queries and actions.  **(Deprecated)**
 - **[Telegram](http://t.me/Ivin_Techz)**  
 - **[X (formerly Twitter)](https://twitter.com/ivin_titus_)**  
 - **[YouTube](https://www.youtube.com/@Ivin_Techz)**
-- **[Website](https://ivin.site/)
+- **[Website](https://ivin.site/)**
 
 ## ⚡ Fun Facts
 - 🎮 Gamer who loves RPGs & strategy titles  
