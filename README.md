@@ -1,4 +1,4 @@
-# **👋 Hi, I’m Ivin Titus**  
+# **👋 Hi, I'm Ivin Titus**  
 
 🌍 Kerala, India  
 🎓 3rd Year BCA Student  
@@ -9,9 +9,9 @@
 
 ## 🌟 About Me
 I’m a self-taught tech enthusiast who loves crafting **modern, minimal, and user-friendly** digital experiences.  
-From **responsive websites** to **mobile apps**, my goal is to merge sleek design with solid functionality.  
+I focus on building tools that respect privacy and creativity — from sleek websites to experimental social platforms.
 
-When I’m not coding, you’ll find me designing in Figma, editing videos, gaming, or binge-watching anime.  
+When I'm not coding, you’ll find me designing in Figma, editing videos, gaming, binge-watching anime, or experimenting in the kitchen - I'm always cooking up something 😉.
 
 #
 
