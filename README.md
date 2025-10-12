@@ -1,6 +1,6 @@
 # **👋 Hi, I'm Ivin Titus**  
 
-🌍 Kerala, India  
+🌍 Kottayam, Kerala, India  
 🎓 Final Year BCA Student  
 💻 Full-Stack Developer & UI/UX Designer  
 📱 Exploring mobile apps, privacy-first tools, and all things creative  
@@ -36,28 +36,28 @@ When I'm not coding, you’ll find me designing in Figma, editing videos, gaming
 
 ### **📂 Featured Projects**  
 #### 1. [Project Yuki](https://yuki.ivin.site/) 
-An AI-powered virtual best friend that chats, tracks emotions, and evolves with you. **🚀 Live, Iterative development**
+An AI-powered virtual best friend that chats, tracks emotions, and evolves with you - **🚀 Live, Iterative development**
 
 #### 2. [Hori-Z](https://horiz.ivin.site/)
-A decentralized, privacy-first social platform with anonymous and public posting modes. **🔧 Early development**
+A decentralized, privacy-first social platform with anonymous and public posting modes - **🔧 Early development**
 
 #### 3. [RoleLinker](https://rolelinker.ivin.site/)
-A smart job-matching platform connecting recruiters and seekers by skills and roles. **🚀 Live, Iterative development**
+A smart job-matching platform connecting recruiters and seekers by skills and roles - **🚀 Live, Iterative development**
 
 #### 4. [ReSmart](https://github.com/ivin-titus/ReSmart)  
-A smart app for repurposing old smartphones - IoT controls, make it as a NAS Server and more **⏸️ Paused for restructure**
+A smart app for repurposing old smartphones - IoT controls, make it as a NAS Server and more - **⏸️ Paused for restructure**
 
 #### 5. [Text-Encryption](https://github.com/ivin-titus/Text-Encryption)
-A simple Python + flutter app that demonstrates a simple encryption algorithm made by me. **🚀 Live**
+A simple Python + flutter app that demonstrates a simple encryption algorithm made by me - **🚀 Live**
 
 #### 6. [Link-Shortener-and-QR-Code-Generator](https://github.com/ivin-titus/Link-Shortener-and-QR-Code-Generator)  
-A web tool to shorten URLs and generate QR codes. **🚀 Live**
+A web tool to shorten URLs and generate QR codes - **🚀 Live**
 
 #### 7. [Password-Generator](https://github.com/ivin-titus/password-generator) 
-A tool to generate strong and secure passwords. **🚀 Live**
+A tool to generate strong and secure passwords - **🚀 Live**
 
 #### 8. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch) 
-Automates bing search and tasks for Microsoft Rewards.  **⚠️ Deprecated**
+Automates bing search and tasks for Microsoft Rewards - **⚠️ Deprecated**
 
 #
 
