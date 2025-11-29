@@ -42,7 +42,7 @@ An AI-powered virtual best friend that chats, tracks emotions, and evolves with 
 A decentralized, privacy-first social platform with anonymous and public posting modes - **🔧 In development**
 
 #### 3. [RoleLinker](https://rolelinker.ivin.site/)
-A smart job-matching platform connecting recruiters and seekers by skills and roles - **🚀 Live, Iterative development**
+A smart job-matching platform connecting recruiters and seekers by skills and roles - **🚀 Live**
 
 #### 4. [ReSmart](https://github.com/ivin-titus/ReSmart)  
 A smart app for repurposing old smartphones - IoT controls, make it as a NAS Server and more - **⏸️ Paused for restructure**
