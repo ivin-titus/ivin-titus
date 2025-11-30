@@ -32,16 +32,10 @@ When I'm not coding, you’ll find me designing in Figma, editing videos, gaming
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 #### 🛠 **Tools, Design and DevOPS**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker\&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white) 
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Linux Admin](https://img.shields.io/badge/-Linux%20Admin-333333?style=flat&logo=linux&logoColor=white) 
-
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker\&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Linux Admin](https://img.shields.io/badge/-Linux%20Admin-333333?style=flat&logo=linux&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white) 
-
 ![Project Management](https://img.shields.io/badge/-Project%20Management-007ACC?style=flat&logo=trello&logoColor=white) ![Testing](https://img.shields.io/badge/-Testing-6DB33F?style=flat&logo=testing-library&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-4285F4?style=flat&logo=google&logoColor=white) ![Web Content Creation](https://img.shields.io/badge/-Web%20Content%20Creation-FF5722?style=flat&logo=googlechrome&logoColor=white) 
 
 
