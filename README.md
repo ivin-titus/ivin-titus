@@ -86,6 +86,6 @@ Automates bing search and tasks for Microsoft Rewards - **⚠️ Deprecated**
 
 #
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&count_private=true&theme=radical)  
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&count_private=true&theme=radical) -->
 
 > _"Code is like humor. When you have to explain it, it’s bad."_  
