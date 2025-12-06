@@ -1,9 +1,7 @@
 # **👋 Hi, I'm Ivin Titus**  
-
-🌍 Kottayam, Kerala, India  
-🎓 Final Year BCA Student  
-💻 Full-Stack Developer & UI/UX Designer  
-📱 Exploring mobile apps, privacy-first tools, and all things creative  
+💻 Full-Stack Engineer (Backend • Cloud • UI/UX)  
+🔐 I build production-ready apps with a focus on privacy, security & clean user experience  
+📱 Exploring AI systems, social platforms, and creative tools
 
 #
 
