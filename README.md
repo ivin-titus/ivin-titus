@@ -87,3 +87,17 @@ Automates bing search and tasks for Microsoft Rewards - **⚠️ Deprecated**
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&count_private=true&theme=radical) -->
 
 > _"Code is like humor. When you have to explain it, it’s bad."_  
+
+<!--OLD Details
+
+--- GitHub --- 
+BIO:
+Self-taught developer & UI/UX designer building modern web and mobile apps. Obsessed with clean design, great UX, and solving real problems (on a budget 😅).
+
+Intro:
+🌍 Kottayam, Kerala, India 🎓 Final Year BCA Student 💻 Full-Stack Developer & UI/UX Designer 📱 Exploring mobile apps, privacy-first tools, and all things creative
+
+--- LinkedIn --- 
+
+
+-->
