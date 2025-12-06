@@ -1,4 +1,5 @@
 # **👋 Hi, I'm Ivin Titus**  
+
 💻 Full-Stack Engineer (Backend • Cloud • UI/UX)  
 🔐 I build production-ready apps with a focus on privacy, security & clean user experience  
 📱 Exploring AI systems, social platforms, and creative tools
