@@ -4,7 +4,7 @@
 🔐 I build production-ready apps with a focus on privacy, security & clean user experience  
 📱 Exploring AI systems, social platforms, and creative tools
 
-#
+</br>
 
 ## 🌟 About Me
 I’m a self-taught tech enthusiast who loves crafting **modern, minimal, and user-friendly** digital experiences.  
