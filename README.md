@@ -12,9 +12,9 @@ I focus on building tools that respect privacy and creativity - from sleek websi
 
 When I'm not coding, you’ll find me designing in Figma, editing videos, gaming, binge-watching anime, or experimenting in the kitchen - I'm always cooking up something 😉.
 
-#
+<br>
 
-### 🚀 **Tech Stack & Tools**
+## 🚀 **Tech Stack & Tools**
 
 #### 🖥 **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
@@ -38,9 +38,9 @@ When I'm not coding, you’ll find me designing in Figma, editing videos, gaming
 ![Project Management](https://img.shields.io/badge/-Project%20Management-007ACC?style=flat&logo=trello&logoColor=white) ![Testing](https://img.shields.io/badge/-Testing-6DB33F?style=flat&logo=testing-library&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-4285F4?style=flat&logo=google&logoColor=white) ![Web Content Creation](https://img.shields.io/badge/-Web%20Content%20Creation-FF5722?style=flat&logo=googlechrome&logoColor=white) 
 
 
-#
+<br>
 
-### **📂 Featured Projects**  
+## **📂 Featured Projects**  
 #### 1. [Project Yuki](https://yuki.ivin.site/) 
 An AI-powered virtual best friend that chats, tracks emotions, and evolves with you - **🚀 Live, Iterative development**
 
@@ -65,9 +65,9 @@ A tool to generate strong and secure passwords - **🚀 Live**
 #### 8. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch) 
 Automates bing search and tasks for Microsoft Rewards - **⚠️ Deprecated**
 
-#
+<br>
 
-### **📬 Let's Connect!**  
+## **📬 Let's Connect!**  
 
 - **[Discord](https://discordapp.com/users/887217817131286549)**  
 - **[LinkedIn](https://in.linkedin.com/in/ivintitus)**  
@@ -83,7 +83,7 @@ Automates bing search and tasks for Microsoft Rewards - **⚠️ Deprecated**
 - 🔐 Security & privacy enthusiast — I encrypt everything 
 - 🌱 Always learning something new - even if I put myself into trouble 😅
 
-#
+<br>
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&count_private=true&theme=radical) -->
 
