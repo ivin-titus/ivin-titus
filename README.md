@@ -77,6 +77,8 @@ Automates bing search and tasks for Microsoft Rewards - **⚠️ Deprecated**
 - **[YouTube](https://www.youtube.com/@Ivin_Techz)**
 - **[Website](https://ivin.site/)**
 
+<br>
+
 ## ⚡ Fun Facts
 - 🎮 Gamer who loves RPGs & strategy titles  
 - 🎥 Anime fan (Bleach supremacy 🗡️)  
