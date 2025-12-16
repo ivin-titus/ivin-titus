@@ -71,7 +71,7 @@ Automates bing search and tasks for Microsoft Rewards - **⚠️ Deprecated**
 
 - **[Discord](https://discordapp.com/users/887217817131286549)**  
 - **[LinkedIn](https://in.linkedin.com/in/ivintitus)**  
-- **[Email](mailto:ivintitus@hotmail.com)** 
+- **[Email](mailto:contact@ivin.site)** 
 - **[Telegram](http://t.me/Ivin_Techz)**  
 - **[X (formerly Twitter)](https://twitter.com/ivin_titus_)**  
 - **[YouTube](https://www.youtube.com/@Ivin_Techz)**
