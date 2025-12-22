@@ -47,22 +47,25 @@ An AI-powered virtual best friend that chats, tracks emotions, and evolves with 
 #### 2. [Hori-Z](https://hori-z.ivin.site/)
 A decentralized, privacy-first social platform with anonymous and public posting modes - **🔧 In development**
 
-#### 3. [RoleLinker](https://rolelinker.ivin.site/)
+#### 3. [FlowLens]()
+An AI-powered DevOps governance platform for real-time commit-to-production tracking, pipeline visibility, and automated risk analysis - **🏆 Hackathon Winner (DMCON Kerala 2025)**
+
+#### 4. [RoleLinker](https://rolelinker.ivin.site/)
 A smart job-matching platform connecting recruiters and seekers by skills and roles - **🚀 Live**
 
-#### 4. [ReSmart](https://github.com/ivin-titus/ReSmart)  
+#### 5. [ReSmart](https://github.com/ivin-titus/ReSmart)  
 A smart app for repurposing old smartphones - IoT controls, make it as a NAS Server and more - **⏸️ Paused for restructure**
 
-#### 5. [Text-Encryption](https://github.com/ivin-titus/Text-Encryption)
+#### 6. [Text-Encryption](https://github.com/ivin-titus/Text-Encryption)
 A simple Python + flutter app that demonstrates a simple encryption algorithm made by me - **🚀 Live**
 
-#### 6. [Link-Shortener-and-QR-Code-Generator](https://github.com/ivin-titus/Link-Shortener-and-QR-Code-Generator)  
+#### 7. [Link-Shortener-and-QR-Code-Generator](https://github.com/ivin-titus/Link-Shortener-and-QR-Code-Generator)  
 A web tool to shorten URLs and generate QR codes - **🚀 Live**
 
-#### 7. [Password-Generator](https://github.com/ivin-titus/password-generator) 
+#### 8. [Password-Generator](https://github.com/ivin-titus/password-generator) 
 A tool to generate strong and secure passwords - **🚀 Live**
 
-#### 8. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch) 
+#### 9. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch) 
 Automates bing search and tasks for Microsoft Rewards - **⚠️ Deprecated**
 
 <br>
