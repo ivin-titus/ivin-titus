@@ -48,7 +48,7 @@ An AI-powered virtual best friend that chats, tracks emotions, and evolves with 
 A decentralized, privacy-first social platform with anonymous and public posting modes - **🔧 In development**
 
 #### 3. [FlowLens]()
-An AI-powered DevOps governance platform for real-time commit-to-production tracking, pipeline visibility, and automated risk analysis - **🏆 Hackathon Winner (DMCON Kerala 2025)**
+AI-powered DevOps governance with end-to-end pipeline visibility and risk analysis - **🏆 Hackathon Winner (DMCON Kerala 2025)**
 
 #### 4. [RoleLinker](https://rolelinker.ivin.site/)
 A smart job-matching platform connecting recruiters and seekers by skills and roles - **🚀 Live**
