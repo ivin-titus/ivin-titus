@@ -68,7 +68,7 @@ A tool to generate strong and secure passwords - **🚀 Live**
 #### 9. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch) 
 Automates bing search and tasks for Microsoft Rewards - **⚠️ Deprecated**
 
-> Check [repositories]() for more projects
+> #### Check **[repositories](https://github.com/ivin-titus?tab=repositories)** for more projects
 
 <br>
 
