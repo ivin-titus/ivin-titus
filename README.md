@@ -10,7 +10,7 @@
 I’m a self-taught tech enthusiast who loves crafting **modern, minimal, and user-friendly** digital experiences.  
 I focus on building tools that respect privacy and creativity - from sleek websites to experimental social platforms.
 
-When I'm not coding, you’ll find me designing in Figma, editing videos, gaming, binge-watching anime, or experimenting in the kitchen - I'm always cooking up something 😉.
+When I'm not coding, you’ll find me designing in Figma, editing videos, gaming, binge-watching anime, reading books, or experimenting in the kitchen - I'm always cooking up something 😉.
 
 <br>
 
