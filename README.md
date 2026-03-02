@@ -42,13 +42,13 @@ When I'm not coding, you’ll find me designing in Figma, editing videos, gaming
 
 ## **📂 Featured Projects**  
 #### 1. [Project Yuki](https://yuki.ivin.site/) 
-An AI-powered virtual best friend that chats, tracks emotions, and evolves with you - **🚀 Live, Iterative development**
+An AI-powered virtual best friend that chats, tracks emotions, and evolves with you </br> **🚀 Live, Iterative development**
 
 #### 2. [Hori-Z](https://hori-z.ivin.site/)
-A decentralized, privacy-first social platform with anonymous and public posting modes - **🚀 Live, Iterative development**
+A decentralized, privacy-first social platform with anonymous and public posting modes </br> **🚀 Live, Iterative development**
 
 #### 3. [FlowLens](https://github.com/ivin-titus/FlowLens-Devops-Intelligence)
-AI-powered DevOps governance with end-to-end pipeline visibility and risk analysis - **🏆 Hackathon Winner (DMCON Kerala 2025)**
+AI-powered DevOps governance with end-to-end pipeline visibility and risk analysis </br> **🏆 Hackathon Winner (DMCON Kerala 2025)**
 
 #### 4. [RoleLinker](https://rolelinker.ivin.site/)
 A smart job-matching platform connecting recruiters and seekers by skills and roles - **🚀 Live**
