@@ -45,7 +45,7 @@ When I'm not coding, you’ll find me designing in Figma, editing videos, gaming
 An AI-powered virtual best friend that chats, tracks emotions, and evolves with you - **🚀 Live, Iterative development**
 
 #### 2. [Hori-Z](https://hori-z.ivin.site/)
-A decentralized, privacy-first social platform with anonymous and public posting modes - **🔧 In development**
+A decentralized, privacy-first social platform with anonymous and public posting modes - **🚀 Live, Iterative development**
 
 #### 3. [FlowLens](https://github.com/ivin-titus/FlowLens-Devops-Intelligence)
 AI-powered DevOps governance with end-to-end pipeline visibility and risk analysis - **🏆 Hackathon Winner (DMCON Kerala 2025)**
