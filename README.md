@@ -33,18 +33,6 @@ A smart job-matching platform connecting recruiters and seekers by skills and ro
 #### 6. [ReSmart](https://github.com/ivin-titus/ReSmart)  
 A smart app for repurposing old smartphones - IoT controls, make it as a NAS Server and more </br> **⏸️ Paused for restructure**
 
-#### 7. [Text-Encryption](https://github.com/ivin-titus/Text-Encryption)
-A simple Python + flutter app that demonstrates a simple encryption algorithm made by me </br> **🚀 Live**
-
-#### 8. [Link-Shortener-and-QR-Code-Generator](https://github.com/ivin-titus/Link-Shortener-and-QR-Code-Generator)  
-A web tool to shorten URLs and generate QR codes </br> **🚀 Live**
-
-#### 9. [Password-Generator](https://github.com/ivin-titus/password-generator) 
-A tool to generate strong and secure passwords </br> **🚀 Live**
-
-#### 10. [Bing-AutoSearch](https://github.com/ivin-titus/bing-autosearch) 
-Automates bing search and tasks for Microsoft Rewards </br> **⚠️ Deprecated**
-
 > #### Check **[repositories](https://github.com/ivin-titus?tab=repositories)** for more projects
 
 <br>
