@@ -1,3 +1,11 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Ivin%20Titus&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Backend+•+Cloud+•+UI/UX;Building+privacy-first+tools"/>
+</p>
+
 # **👋 Hi, I'm Ivin Titus**  
 
 💻 Full-Stack Software Engineer (Backend • Cloud • UI/UX)  
