@@ -6,7 +6,7 @@
 
 </br>
 
-## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg> Tech Stack
+## Tech Stack
 I’m a self-taught tech enthusiast who loves crafting **modern, minimal, and user-friendly** digital experiences.  
 I enjoy building modern tools that respect privacy and creativity — from sleek web apps to experimental social platforms. 
 
@@ -14,7 +14,7 @@ When I'm not coding, you’ll find me designing in Figma, editing videos, gaming
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/folder.svg?color=white" width="18"/> Featured Projects
+## Featured Projects
 #### 1. [Project Yuki](https://yuki.ivin.site/) 
 An AI-powered virtual best friend that chats, tracks emotions, and evolves with you </br> **🚀 Live, Iterative development**
 
@@ -37,7 +37,7 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/code.svg?color=white" width="18"/> Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |---------|--------------|
@@ -54,7 +54,7 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 <br>
 
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/mail.svg?color=white" width="18"/> Let's Connect
+## Let's Connect
 - **[Discord](https://discordapp.com/users/887217817131286549)**  
 - **[LinkedIn](https://in.linkedin.com/in/ivintitus)**  
 - **[Email](mailto:ivintitus@hotmail.com)** 
@@ -65,14 +65,14 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/zap.svg?color=currentColor" width="18"/> Fun Facts- 🎮 Gamer who loves RPGs & strategy titles  
+## Fun Facts- 🎮 Gamer who loves RPGs & strategy titles  
 - 🎥 Anime fan (Bleach supremacy 🗡️)  
 - 🔐 Security & privacy enthusiast — I encrypt everything 
 - 🌱 Always learning something new - even if I put myself into trouble 😅
 
 <br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&count_private=true&theme=radical) 
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&count_private=true&theme=radical) -->
 
 > _"Code is like humor. When you have to explain it, it’s bad."_  
 
