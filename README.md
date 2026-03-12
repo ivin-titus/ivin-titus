@@ -6,7 +6,7 @@
 
 </br>
 
-## 🌟 About Me
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/user.svg?color=white" width="18"/> About Me
 I’m a self-taught tech enthusiast who loves crafting **modern, minimal, and user-friendly** digital experiences.  
 I enjoy building modern tools that respect privacy and creativity — from sleek web apps to experimental social platforms. 
 
@@ -14,7 +14,7 @@ When I'm not coding, you’ll find me designing in Figma, editing videos, gaming
 
 <br>
 
-## **📂 Featured Projects**  
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/folder.svg?color=white" width="18"/> Featured Projects
 #### 1. [Project Yuki](https://yuki.ivin.site/) 
 An AI-powered virtual best friend that chats, tracks emotions, and evolves with you </br> **🚀 Live, Iterative development**
 
@@ -37,7 +37,7 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 
 <br>
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/code.svg" width="18"/> Tech Stack
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/code.svg?color=white" width="18"/> Tech Stack
 
 | Category | Technologies |
 |---------|--------------|
@@ -54,8 +54,7 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 <br>
 
 
-## **📬 Let's Connect!**  
-
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/mail.svg?color=white" width="18"/> Let's Connect
 - **[Discord](https://discordapp.com/users/887217817131286549)**  
 - **[LinkedIn](https://in.linkedin.com/in/ivintitus)**  
 - **[Email](mailto:ivintitus@hotmail.com)** 
@@ -66,8 +65,7 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 
 <br>
 
-## ⚡ Fun Facts
-- 🎮 Gamer who loves RPGs & strategy titles  
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/zap.svg?color=currentColor" width="18"/> Fun Facts- 🎮 Gamer who loves RPGs & strategy titles  
 - 🎥 Anime fan (Bleach supremacy 🗡️)  
 - 🔐 Security & privacy enthusiast — I encrypt everything 
 - 🌱 Always learning something new - even if I put myself into trouble 😅
