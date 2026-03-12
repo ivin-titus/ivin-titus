@@ -16,22 +16,22 @@ When I'm not coding, you’ll find me designing in Figma, editing videos, gaming
 
 ## Featured Projects
 #### 1. [Project Yuki](https://yuki.ivin.site/) 
-An AI-powered virtual best friend that chats, tracks emotions, and evolves with you </br> **🚀 Live, Iterative development**
+An AI-powered virtual best friend that chats, tracks emotions, and evolves with you </br> **Status: Live, Iterative development**
 
 #### 2. [Hori-Z](https://hori-z.ivin.site/)
-A decentralized, privacy-first social platform with anonymous and public posting modes </br> **🚀 Live, Iterative development**
+A decentralized, privacy-first social platform with anonymous and public posting modes </br> **Status: Live, Iterative development**
 
 #### 3. [Portless](https://github.com/ivin-titus/portless)
-A lightweight local service router that replaces `localhost:3000` with `api.localhost` — zero port conflicts, process supervision, Docker auto-discovery, and LAN collaboration out of the box </br> **🔨 Active development**
+A lightweight local service router that replaces `localhost:3000` with `api.localhost` — zero port conflicts, process supervision, Docker auto-discovery, and LAN collaboration out of the box </br> **Status: Active development**
 
 #### 4. [FlowLens](https://github.com/ivin-titus/FlowLens-Devops-Intelligence)
-AI-powered DevOps governance with end-to-end pipeline visibility and risk analysis </br> **🏆 Hackathon Winner (DMCON Kerala 2025)**
+AI-powered DevOps governance with end-to-end pipeline visibility and risk analysis </br> **Achievement: Hackathon Winner (DMCON Kerala 2025)**
 
 #### 5. [RoleLinker](https://rolelinker.ivin.site/)
-A smart job-matching platform connecting recruiters and seekers by skills and roles </br> **🚀 Live**
+A smart job-matching platform connecting recruiters and seekers by skills and roles </br> **Status: Live**
 
 #### 6. [ReSmart](https://github.com/ivin-titus/ReSmart)  
-A smart app for repurposing old smartphones - IoT controls, make it as a NAS Server and more </br> **⏸️ Paused for restructure**
+A smart app for repurposing old smartphones - IoT controls, make it as a NAS Server and more </br> **Status: Paused for restructure**
 
 > #### Check **[repositories](https://github.com/ivin-titus?tab=repositories)** for more projects
 
