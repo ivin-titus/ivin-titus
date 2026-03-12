@@ -1,8 +1,8 @@
 # **👋 Hi, I'm Ivin Titus**  
 
-💻 Full-Stack Software Engineer (Backend • Cloud • UI/UX)  
-🔐 I build production-ready apps with a focus on privacy, security & clean user experience  
-📱 Exploring AI systems, social platforms, and creative tools
+Full-Stack Software Engineer (Backend • Cloud • UI/UX)  
+I build production-ready apps with a focus on privacy, security & clean user experience  
+Exploring AI systems, social platforms, and creative tools
 
 </br>
 
@@ -66,9 +66,9 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 <br>
 
 ## Fun Facts- 🎮 Gamer who loves RPGs & strategy titles  
-- 🎥 Anime fan (Bleach supremacy 🗡️)  
-- 🔐 Security & privacy enthusiast — I encrypt everything 
-- 🌱 Always learning something new - even if I put myself into trouble 😅
+- Anime fan (Bleach supremacy 🗡️)  
+- Security & privacy enthusiast — I encrypt everything 
+- Always learning something new - even if I put myself into trouble 😅
 
 <br>
 <!--
