@@ -24,7 +24,7 @@ When I'm not coding, you’ll find me designing in Figma, editing videos, gaming
 
 
 #### 🗄 **Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=database&logoColor=white) 
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=database&logoColor=white) 
 
 
 #### 📱 **Mobile Development**
