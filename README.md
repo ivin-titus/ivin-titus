@@ -37,7 +37,7 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 
 <br>
 
-## 🚀 Tech Stack
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/code.svg" width="18"/> Tech Stack
 
 | Category | Technologies |
 |---------|--------------|
