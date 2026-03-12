@@ -8,7 +8,7 @@ Exploring AI systems, social platforms, and creative tools
 
 ## Tech Stack
 I’m a self-taught tech enthusiast who loves crafting **modern, minimal, and user-friendly** digital experiences.  
-I enjoy building modern tools that respect privacy and creativity — from sleek web apps to experimental social platforms. 
+I enjoy building modern tools that respect privacy and creativity - from sleek web apps to experimental social platforms. 
 
 When I'm not coding, you’ll find me designing in Figma, editing videos, gaming, binge-watching anime, reading books, or experimenting in the kitchen - I'm always cooking up something 😉.
 
@@ -65,7 +65,8 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 
 <br>
 
-## Fun Facts- 🎮 Gamer who loves RPGs & strategy titles  
+## Fun Facts about me
+- Gamer who loves RPGs & strategy titles  
 - Anime fan (Bleach supremacy 🗡️)  
 - Security & privacy enthusiast — I encrypt everything 
 - Always learning something new - even if I put myself into trouble 😅
