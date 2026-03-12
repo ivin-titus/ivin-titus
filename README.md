@@ -49,8 +49,6 @@ Automates bing search and tasks for Microsoft Rewards </br> **⚠️ Deprecated*
 
 <br>
 
-## 🚀 **Tech Stack & Tools**
-
 ## 🚀 Tech Stack
 
 | Category | Technologies |
