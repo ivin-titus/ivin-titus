@@ -46,7 +46,7 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 | **APIs & Data** | REST APIs • WebSockets • JSON • JWT |
 | **Databases** | PostgreSQL • Redis • MySQL • SQLite |
 | **Mobile** | Flutter |
-| **DevOps & Infrastructure** | Docker • Linux • Cloudflare |
+| **DevOps & Infrastructure** | Docker • Linux • Cloudflare • Oracle Cloud |
 | **Development Tools** | Git • GitHub • Postman • VS Code |
 | **Design & Media** | Figma • Photoshop • Premiere Pro |
 | **Other Skills** | Testing • SEO • Project Management • Web Content Creation |
