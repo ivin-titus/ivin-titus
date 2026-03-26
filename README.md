@@ -4,11 +4,11 @@ Full-Stack Software Engineer (Backend • Cloud • UI/UX)
 I build production-ready apps with a focus on privacy, security & clean user experience  
 Exploring AI systems, social platforms, and creative tools
 
-> I don’t stick to one stack - I just follow curiosity, learn fast, and build whatever feels right.
+I don’t stick to one stack - I just follow curiosity, learn fast, and build whatever feels right.
 
 </br>
 
-## Tech Stack
+## About Me
 I’m a self-taught tech enthusiast who loves crafting **modern, minimal, and user-friendly** digital experiences.  
 I enjoy building modern tools that respect privacy and creativity - from sleek web apps to experimental social platforms. 
 
