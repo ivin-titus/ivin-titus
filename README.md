@@ -4,6 +4,8 @@ Full-Stack Software Engineer (Backend • Cloud • UI/UX)
 I build production-ready apps with a focus on privacy, security & clean user experience  
 Exploring AI systems, social platforms, and creative tools
 
+> I don’t stick to one stack - I just follow curiosity, learn fast, and build whatever feels right.
+
 </br>
 
 ## Tech Stack
@@ -41,15 +43,16 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 
 | Category | Technologies |
 |---------|--------------|
-| **Languages** | Python • Go • TypeScript • JavaScript • C • C++ • Java |
-| **Web / Backend** | FastAPI • Flask • Node.js • Next.js • React • PHP |
-| **APIs & Data** | REST APIs • WebSockets • JSON • JWT |
+| **Languages** | Python • Go • TypeScript • JavaScript • C • C++ • Java • PHP |
+| **Web Development** | FastAPI • Flask • Node.js • Next.js • React |
+| **APIs & Communication** | REST APIs • WebSockets • JSON • JWT |
 | **Databases** | PostgreSQL • Redis • MySQL • SQLite |
 | **Mobile** | Flutter |
-| **DevOps & Infrastructure** | Docker • Linux • Cloudflare • Oracle Cloud |
+| **DevOps & Infrastructure** | Docker • NGINX • Linux • Cloudflare • Oracle Cloud |
 | **Development Tools** | Git • GitHub • Postman • VS Code |
 | **Design & Media** | Figma • Photoshop • Premiere Pro |
-| **Other Skills** | Testing • SEO • Project Management • Web Content Creation |
+| **Additional Skills** | Testing • SEO • Project Management • Web Content Creation |
+
 
 <br>
 
