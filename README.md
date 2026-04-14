@@ -58,7 +58,7 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 
 
 ## Let's Connect
-> **[Discord](https://discordapp.com/users/887217817131286549)** •  **[LinkedIn](https://in.linkedin.com/in/ivintitus)** • **[Email](mailto:ivintitus@hotmail.com)** • **[Telegram](http://t.me/Ivin_Techz)** • **[X (formerly Twitter)](https://twitter.com/ivin_titus_)** • **[YouTube](https://www.youtube.com/@Ivin_Techz)** • **[Website](https://ivin.site/)**
+> • **[Discord](https://discordapp.com/users/887217817131286549)** •  **[LinkedIn](https://in.linkedin.com/in/ivintitus)** • **[Email](mailto:ivintitus@hotmail.com)** • **[Telegram](http://t.me/Ivin_Techz)** • **[X (formerly Twitter)](https://twitter.com/ivin_titus_)** • **[YouTube](https://www.youtube.com/@Ivin_Techz)** • **[Website](https://ivin.site/)** • 
 
 <br>
 
