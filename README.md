@@ -71,7 +71,7 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 ## Fun Facts about me
 - Gamer who loves RPGs & strategy titles  
 - Anime fan (Bleach supremacy 🗡️)  
-- Security & privacy enthusiast — I encrypt everything 
+- Security & privacy enthusiast - I encrypt everything 
 - Always learning something new - even if I put myself into trouble 😅
 
 <br>
