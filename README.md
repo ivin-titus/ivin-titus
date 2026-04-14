@@ -24,7 +24,7 @@ An AI-powered virtual best friend that chats, tracks emotions, and evolves with 
 A decentralized, privacy-first social platform with anonymous and public posting modes </br> **Status: Live, Iterative development**
 
 #### 3. [Portless](https://github.com/ivin-titus/portless)
-A lightweight local service router that replaces `localhost:3000` with `api.localhost` — zero port conflicts, process supervision, Docker auto-discovery, and LAN collaboration out of the box </br> **Status: Active development**
+A lightweight local service router that replaces `localhost:3000` with `api.localhost` - zero port conflicts, process supervision, Docker auto-discovery, and LAN collaboration out of the box </br> **Status: Active development**
 
 #### 4. [FlowLens](https://github.com/ivin-titus/FlowLens-Devops-Intelligence)
 AI-powered DevOps governance with end-to-end pipeline visibility and risk analysis </br> **Achievement: Hackathon Winner (DMCON Kerala 2025)**
