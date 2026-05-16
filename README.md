@@ -50,7 +50,7 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 | **Mobile** | Flutter |
 | **DevOps & Infrastructure** | Docker • NGINX • Linux • Cloudflare • Oracle Cloud |
 | **Development Tools** | Git • GitHub • Postman • VS Code |
-| **Design & Media** | Figma • Photoshop • Premiere Pro |
+| **Design & Media** | Figma • Photoshop • Premiere Pro | <!-- Framer Motion, Three.js etc... needs to added -->
 | **Additional Skills** | Testing • SEO • Project Management • Web Content Creation |
 
 
