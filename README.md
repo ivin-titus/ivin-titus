@@ -29,7 +29,7 @@ A lightweight local service router that replaces `localhost:3000` with `api.loca
 #### 4. [FlowLens](https://github.com/ivin-titus/FlowLens-Devops-Intelligence)
 AI-powered DevOps governance with end-to-end pipeline visibility and risk analysis </br> **Achievement: Hackathon Winner (DMCON Kerala 2025)**
 
-#### 5. [RoleLinker](https://rolelinker.ivin.site/)
+#### 5. [RoleLinker] (https://github.com/ivin-titus/RoleLinker)
 A smart job-matching platform connecting recruiters and seekers by skills and roles </br> **Status: Live**
 
 #### 6. [ReSmart](https://github.com/ivin-titus/ReSmart)  
