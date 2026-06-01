@@ -23,7 +23,7 @@ An AI-powered virtual best friend that chats, tracks emotions, and evolves with 
 #### 2. [Hori-Z](https://hori-z.ivin.site/)
 A decentralized, privacy-first social platform with anonymous and public posting modes </br> **Status: Live, Iterative development**
 
-#### 3. [Portless](https://github.com/ivin-titus/portless)
+#### 3. [DevTether](https://github.com/ivin-titus/devtether)
 A lightweight local service router that replaces `localhost:3000` with `api.localhost` - zero port conflicts, process supervision, Docker auto-discovery, and LAN collaboration out of the box </br> **Status: Active development**
 
 #### 4. [FlowLens](https://github.com/ivin-titus/FlowLens-Devops-Intelligence)
