@@ -30,7 +30,7 @@ A single-binary developer networking toolkit. Replaces port memorization and ngr
 #### 4. [FlowLens](https://github.com/ivin-titus/FlowLens-Devops-Intelligence)
 AI-powered DevOps governance with end-to-end pipeline visibility and risk analysis </br> **Achievement: Hackathon Winner (DMCON Kerala 2025)**
 
-#### 5. [RoleLinker] (https://github.com/ivin-titus/RoleLinker)
+#### 5. [RoleLinker](https://github.com/ivin-titus/RoleLinker)
 A smart job-matching platform connecting recruiters and seekers by skills and roles </br> **Status: Live**
 
 #### 6. [ReSmart](https://github.com/ivin-titus/ReSmart)  
