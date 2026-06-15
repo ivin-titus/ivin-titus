@@ -22,24 +22,31 @@ When I'm not coding, you'll probably find me designing in Figma, writing enginee
 <br>
 
 ## Featured Projects
-#### 1. [Project Yuki](https://yuki.ivin.site/) 
-An AI-powered virtual best friend that chats, tracks emotions, and evolves with you </br> **Status: Live, Iterative development**
+
+#### 1. [Project Yuki](https://yuki.ivin.site/)
+
+Persistent digital persona with long-term memory, cross-platform presence, and user-controlled memories.
+**Status: Live · Iterative development**
 
 #### 2. [Hori-Z](https://hori-z.ivin.site/)
-A decentralized, privacy-first social platform with anonymous and public posting modes </br> **Status: Live, Iterative development**
+
+Privacy-first social platform focused on communities, identity, and meaningful interactions.
+**Status: Live · Iterative development**
 
 #### 3. [DevTether](https://github.com/ivin-titus/devtether)
-A single-binary developer networking toolkit. Replaces port memorization and ngrok with clean `.localhost` domains, process orchestration, and secure tunneling.
- </br> **Status: Active development**
+
+Open-source Go toolkit simplifying local development through domains, routing, and networking.
+**Status: Active development**
 
 #### 4. [FlowLens](https://github.com/ivin-titus/FlowLens-Devops-Intelligence)
-AI-powered DevOps governance with end-to-end pipeline visibility and risk analysis </br> **Achievement: Hackathon Winner (DMCON Kerala 2025)**
+
+DevOps intelligence platform providing deployment visibility, traceability, and risk analysis.
+**Achievement: 1st Place · DMCON Kerala 2025**
 
 #### 5. [RoleLinker](https://github.com/ivin-titus/RoleLinker)
-A smart job-matching platform connecting recruiters and seekers by skills and roles </br> **Status: Live**
 
-#### 6. [ReSmart](https://github.com/ivin-titus/ReSmart)  
-A smart app for repurposing old smartphones - IoT controls, make it as a NAS Server and more </br> **Status: Paused for restructure**
+Transparent job-matching platform connecting candidates and recruiters through skill-based scoring.
+**Status: Live**
 
 > #### Check **[repositories](https://github.com/ivin-titus?tab=repositories)** for more projects
 
