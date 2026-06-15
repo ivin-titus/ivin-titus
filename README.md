@@ -4,17 +4,20 @@ Full-stack engineer from Kerala.
 
 I build production systems with a focus on privacy, reliability, and good user experience — usually on a budget that's far smaller than my ideas 😅
 
-> Currently building: Hori-Z · Project Yuki · DevTether
+> Currently building: Hori-Z · Project Yuki · DevTether </br>
 > **Most of my learning comes from building real projects and solving the problems they create.**
 
 
 </br>
 
 ## About Me
-I’m a self-taught tech enthusiast who loves crafting **modern, minimal, and user-friendly** digital experiences.  
-I enjoy building modern tools that respect privacy and creativity - from sleek web apps to experimental social platforms. 
 
-When I'm not coding, you’ll find me designing in Figma, editing videos, gaming, binge-watching anime, reading books, or experimenting in the kitchen - I'm always cooking up something 😉.
+I'm a full-stack engineer who enjoys building products, tools, and experiments that solve real problems. My interests span backend systems, developer tools, privacy-conscious design, and user experience.
+
+I learn by building, breaking, and improving things. Whether it's a social platform, a digital persona, or a developer tool, I enjoy turning ideas into working systems.
+
+When I'm not coding, you'll probably find me designing in Figma, writing engineering notes, gaming, binge-watching anime, reading books, or experimenting in the kitchen - I'm always cooking up something 😉
+
 
 <br>
 
@@ -76,17 +79,3 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivin-titus&show_icons=true&count_private=true&theme=radical) -->
 
 > _"Code is like humor. When you have to explain it, it’s bad."_  
-
-<!--OLD Details
-
---- GitHub --- 
-BIO:
-Self-taught full-stack engineer building secure, scalable, user-friendly apps. I mix clean design, solid architecture, and practical engineering on 0 budget 😅
-
-Intro:
-🌍 Kottayam, Kerala, India 🎓 Final Year BCA Student 💻 Full-Stack Developer & UI/UX Designer 📱 Exploring mobile apps, privacy-first tools, and all things creative
-
---- LinkedIn --- 
-
-
--->
