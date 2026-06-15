@@ -79,7 +79,7 @@ A smart app for repurposing old smartphones - IoT controls, make it as a NAS Ser
 
 --- GitHub --- 
 BIO:
-Self-taught developer & UI/UX designer building modern web and mobile apps. Obsessed with clean design, great UX, and solving real problems (on a budget 😅).
+Self-taught full-stack engineer building secure, scalable, user-friendly apps. I mix clean design, solid architecture, and practical engineering on 0 budget 😅
 
 Intro:
 🌍 Kottayam, Kerala, India 🎓 Final Year BCA Student 💻 Full-Stack Developer & UI/UX Designer 📱 Exploring mobile apps, privacy-first tools, and all things creative
