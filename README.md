@@ -1,10 +1,12 @@
-# **👋 Hi, I'm Ivin Titus**  
+# 👋 Hi, I'm Ivin Titus
 
-Full-Stack Software Engineer (Backend • Cloud • UI/UX)  
-I build production-ready apps with a focus on privacy, security & clean user experience  
-Exploring AI systems, social platforms, and creative tools
+Full-stack engineer from Kerala.
 
-> **I don’t stick to one stack - I just follow curiosity, learn fast, and build whatever feels right.**
+I build production systems with a focus on privacy, reliability, and good user experience — usually on a budget that's far smaller than my ideas 😅
+
+> Currently building: Hori-Z · Project Yuki · DevTether
+> **Most of my learning comes from building real projects and solving the problems they create.**
+
 
 </br>
 
