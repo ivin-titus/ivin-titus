@@ -24,28 +24,23 @@ When I'm not coding, you'll probably find me designing in Figma, writing enginee
 ## Featured Projects
 
 #### 1. [Project Yuki](https://yuki.ivin.site/)
-
-Persistent digital persona with long-term memory, cross-platform presence, and user-controlled memories.
-**Status: Live · Iterative development**
+Persistent digital persona with long-term memory, cross-platform presence, and user-controlled memories. </br> **Status: Live · Iterative development**
 
 #### 2. [Hori-Z](https://hori-z.ivin.site/)
 
-Privacy-first social platform focused on communities, identity, and meaningful interactions.
-**Status: Live · Iterative development**
+Privacy-first social platform focused on communities, identity, and meaningful interactions. </br>  **Status: Live · Iterative development**
 
 #### 3. [DevTether](https://github.com/ivin-titus/devtether)
 
-Open-source Go toolkit simplifying local development through domains, routing, and networking.
-**Status: Active development**
+Open-source Go toolkit simplifying local development through domains, routing, and networking. </br> **Status: Active development**
 
 #### 4. [FlowLens](https://github.com/ivin-titus/FlowLens-Devops-Intelligence)
 
-DevOps intelligence platform providing deployment visibility, traceability, and risk analysis.
-**Achievement: 1st Place · DMCON Kerala 2025**
+DevOps intelligence platform providing deployment visibility, traceability, and risk analysis. </br> **Achievement: 1st Place · DMCON Kerala 2025**
 
 #### 5. [RoleLinker](https://github.com/ivin-titus/RoleLinker)
 
-Transparent job-matching platform connecting candidates and recruiters through skill-based scoring.
+Transparent job-matching platform connecting candidates and recruiters through skill-based scoring. </br> 
 **Status: Live**
 
 > #### Check **[repositories](https://github.com/ivin-titus?tab=repositories)** for more projects
