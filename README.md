@@ -27,19 +27,15 @@ When I'm not coding, you'll probably find me designing in Figma, writing enginee
 Persistent digital persona with long-term memory, cross-platform presence, and user-controlled memories. </br> **Status: Live · Iterative development**
 
 #### 2. [Hori-Z](https://hori-z.ivin.site/)
-
 Privacy-first social platform focused on communities, identity, and meaningful interactions. </br>  **Status: Live · Iterative development**
 
 #### 3. [DevTether](https://github.com/ivin-titus/devtether)
-
 Open-source Go toolkit simplifying local development through domains, routing, and networking. </br> **Status: Active development**
 
 #### 4. [FlowLens](https://github.com/ivin-titus/FlowLens-Devops-Intelligence)
-
 DevOps intelligence platform providing deployment visibility, traceability, and risk analysis. </br> **Achievement: 1st Place · DMCON Kerala 2025**
 
 #### 5. [RoleLinker](https://github.com/ivin-titus/RoleLinker)
-
 Transparent job-matching platform connecting candidates and recruiters through skill-based scoring. </br> 
 **Status: Live**
 
