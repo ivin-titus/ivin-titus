@@ -68,7 +68,7 @@ Transparent job-matching platform connecting candidates and recruiters through s
 ## Fun Facts about me
 - Gamer who loves RPGs & strategy titles  
 - Anime fan (Bleach supremacy 🗡️)  
-- Security & privacy enthusiast - I encrypt everything 
+- Security & privacy enthusiast - if it can be encrypted, I probably will
 - Always learning something new - even if I put myself into trouble 😅
 
 <br>
