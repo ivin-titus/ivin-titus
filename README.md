@@ -49,18 +49,17 @@ Transparent job-matching platform connecting candidates and recruiters through s
 
 ## Tech Stack
 
-| Category | Technologies |
-|---------|--------------|
-| **Languages** | Python • Go • TypeScript • JavaScript • C • C++ • Java • PHP |
-| **Web Development** | FastAPI • Flask • Node.js • Next.js • React |
-| **APIs & Communication** | REST APIs • WebSockets • JSON • JWT |
-| **Databases** | PostgreSQL • Redis • MySQL • SQLite |
-| **Mobile** | Flutter |
-| **DevOps & Infrastructure** | Docker • NGINX • Linux • Cloudflare • Oracle Cloud |
-| **Development Tools** | Git • GitHub • Postman • VS Code |
-| **Design & Media** | Figma • Photoshop • Premiere Pro | <!-- Framer Motion, Three.js etc... needs to added -->
-| **Additional Skills** | Testing • SEO • Project Management • Web Content Creation |
-
+| Category           | Technologies                                       |
+| ------------------ | -------------------------------------------------- |
+| **Languages**      | Go • Python • TypeScript • JavaScript • PHP        |
+| **Backend**        | FastAPI • Node.js • REST APIs • WebSockets • JWT   |
+| **Frontend**       | Next.js • React • TypeScript • Framer Motion       |
+| **Databases**      | PostgreSQL • Redis • MySQL • SQLite                |
+| **Mobile**         | Flutter                                            |
+| **Infrastructure** | Docker • Linux • NGINX • Cloudflare • Oracle Cloud |
+| **Development**    | Git • GitHub • Postman • VS Code                   |
+| **Design**         | Figma • Photoshop • Premiere Pro                   |
+| **Additional**     | SEO • Testing • Project Management                 |
 
 <br>
 
