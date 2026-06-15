@@ -4,7 +4,7 @@ Full-stack engineer from Kerala.
 
 I build production systems with a focus on privacy, reliability, and good user experience — usually on a budget that's far smaller than my ideas 😅
 
-> Currently building: Hori-Z · Project Yuki · DevTether </br>
+Currently building: Hori-Z · Project Yuki · DevTether </br>
 > **Most of my learning comes from building real projects and solving the problems they create.**
 
 
