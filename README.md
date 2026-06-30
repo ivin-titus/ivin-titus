@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivin Titus
 
-Full-stack engineer from Kerala.
+Full-stack Software Engineer from Kerala.
 
 I build production systems with a focus on privacy, reliability, and good user experience - usually on a budget that's far smaller than my ideas 😅
 
@@ -13,7 +13,7 @@ Currently building: Hori-Z · Project Yuki · DevTether </br>
 
 ## About Me
 
-I'm a full-stack engineer who enjoys building products, tools, and experiments that solve real problems. My interests span backend systems, developer tools, privacy-conscious design, and user experience.
+I'm a full-stack Software Engineer who enjoys building products, tools, and experiments that solve real problems. My interests span backend systems, developer tools, privacy-conscious design, and user experience.
 
 I learn by building, breaking, and improving things. Whether it's a social platform, a digital persona, or a developer tool, I enjoy turning ideas into working systems.
 
