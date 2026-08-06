@@ -38,7 +38,7 @@ DevOps intelligence platform providing deployment visibility, traceability, and 
 
 #### 5. [RoleLinker](https://github.com/ivin-titus/RoleLinker)
 Transparent job-matching platform connecting candidates and recruiters through skill-based scoring. </br> 
-**Status: Live**
+<!-- **Status: Live** -->
 
 > #### Check **[repositories](https://github.com/ivin-titus?tab=repositories)** for more projects
 
