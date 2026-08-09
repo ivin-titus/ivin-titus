@@ -33,7 +33,7 @@ Privacy-first social platform focused on communities, identity, and meaningful i
 #### 3. [DevTether](https://github.com/ivin-titus/devtether)
 Open-source Go toolkit simplifying local development through domains, routing, and networking. </br> **Status: Active development**
 
-#### 4. [FlowLens](https://github.com/ivin-titus/FlowLens-Devops-Intelligence)
+#### 4. [FlowLens](https://gitlab.com/ivin-titus/FlowLens-Devops-Intelligence)
 DevOps intelligence platform providing deployment visibility, traceability, and risk analysis. </br> **Achievement: 1st Place · DMCON Kerala 2025**
 
 #### 5. [RoleLinker](https://github.com/ivin-titus/RoleLinker)
