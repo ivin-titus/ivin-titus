@@ -25,7 +25,8 @@ When I'm not coding, you'll probably find me designing in Figma, writing enginee
 ## Featured Projects
 
 #### 1. [Project Yuki](https://yuki.ivin.site/)
-Persistent digital persona with long-term memory, cross-platform presence, and user-controlled memories. </br> **Status: Live · Iterative development**
+Persistent digital persona with multimodal perception, cross-platform presence, and user-owned encrypted memory.
+Status: Closed Private R&D Beta — [Learn More](https://yuki.ivin.site/research)
 
 #### 2. [Hori-Z](https://hori-z.ivin.site/)
 Privacy-first social platform focused on communities, identity, and meaningful interactions. </br>  **Status: Live · Iterative development**
