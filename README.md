@@ -31,7 +31,7 @@ Persistent digital persona with multimodal perception, cross-platform presence, 
 Privacy-first social platform focused on communities, identity, and meaningful interactions. </br>  **Status: Live · Iterative development**
 
 #### 3. [DevTether](https://github.com/ivin-titus/devtether)
-Open-source Go toolkit simplifying local development through domains, routing, and networking. </br> **Status: Active development**
+Open-source Go toolkit simplifying local development with domains, routing, and networking. </br> **Status: Active development**
 
 #### 4. [FlowLens](https://gitlab.com/ivin-titus/FlowLens-Devops-Intelligence)
 DevOps intelligence platform providing deployment visibility, traceability, and risk analysis. </br> **Achievement: 1st Place · DMCON Kerala 2025**
